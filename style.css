@@ -426,9 +426,6 @@ section .title::after{
 
 
 /* experiences section styling */
-.experiences .title::after{
-    content: "who with me";
-}
 .experiences .carousel .card{
     background: #222;
     border-radius: 6px;
